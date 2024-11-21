@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/araujoerick09" alt="LinkedIn"/></a>
 </p>
 <p>
-  Desenvolvedor Front-end em transição de carreira. Apaixonado por criar interfaces intuitivas e responsivas :iphone:
+  Desenvolvedor Front-end apaixonado por criar interfaces intuitivas e responsivas :iphone:
 </p>
 
 - 🎓 Graduado em Sistemas de Informação.
