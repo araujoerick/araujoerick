@@ -9,11 +9,11 @@
   Desenvolvedor Front-end graduado em Sistemas de Informação com conhecimento em HTML, CSS, Tailwind CSS, JavaScript, React e em constante aperfeiçoamento estou me aprofundando no uso do TypeScript para garantir segurança e escalabilidade no código. 
 
   Sou apaixonado por criar interfaces intuitivas e responsivas, sempre buscando as melhores práticas de acessibilidade, usabilidade e design. Meu objetivo é continuar evoluindo como desenvolvedor, aplicando minhas habilidades em projetos 
-  desafiadores e colaborando com equipes dinâmicas para oferecer experiências excepcionais aos usuários.
+  desafiadores e colaborando com equipes dinâmicas para oferecer ótimas experiências aos usuários.
 </p>
 
 - 🎓 Graduado em Sistemas de Informação.
-- 🌱 Aprendendo mais sobre React e Typescript.
+- 🌱 Aprendendo mais sobre Next JS e Typescript.
 
 ## 🚀 Minhas Skills
 <p align="left">
