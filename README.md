@@ -1,63 +1,85 @@
-## Olá! Meu nome é Erick Araújo
-<p>
-  <a href="mailto:araujoerick.dev@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:araujoerick.dev@gmail.com" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/araujoerick09" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/araujoerick09" alt="LinkedIn"/></a>
-</p>
-<p>
-  🎯 Desenvolvedor Front-end focado em construir aplicações web modernas e performáticas com React, Next.js e TypeScript. Tenho me aprofundado em arquitetura fullstack, incluindo integração com APIs, banco de dados e boas práticas de segurança, validação e performance.
-</p>
-<p>
-	:iphone: Sou apaixonado por criar interfaces intuitivas e responsivas, sempre buscando as melhores práticas de usabilidade e design.
-</p>
+# Olá! Eu sou o Erick Araújo
 
-## 🎓 Formações
-- Graduado em Sistemas de Informação
-- Pós-graduando em Desenvolvimento FullStack.
+Sou um desenvolvedor Full Stack apaixonado por construir interfaces de alta fidelidade (**Pixel Perfect**) e sistemas escaláveis. Meu foco é criar soluções que unam um design impecável a uma arquitetura robusta, utilizando o que há de mais moderno no ecossistema JavaScript / TypeScript.
 
-## 🚀 Minhas Skills
+## 💼 Experiência
+
+🚀 **Projetos Full Stack & Web3** · **Desenvolvedor Freelancer** *(2023 — Presente)*
+   * Desenvolvimento de **Dashboards de Criptomoedas** e plataformas de **Swap** com foco em dados em tempo real (SSE) e alta performance.
+   * Arquitetura de **Microserviços** utilizando **NestJS, RabbitMQ e Socket.IO** para sistemas de alta escalabilidade.
+   * Interfaces precisas com **Next.js, Tailwind CSS e Shadcn/UI**, garantindo fidelidade total ao design original.
+
+🛠️ **CSR Tecnologia** · **Analista de Suporte & Front-end** *(Out 2017 — Jan 2023)*
+   * Desenvolvimento de interfaces responsivas e acessíveis com **HTML, CSS e JavaScript**, elevando a satisfação do usuário final.
+   * Atuação estratégica como ponte entre a equipe técnica e os usuários, otimizando o fluxo de feedback e correções.
+   * Liderança operacional: melhora de 20% no tempo de fechamento de chamados e redução drástica de bugs recorrentes.
+
+## 🛠️ Minha Stack
+
 <div align="center">
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/>
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/>
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/>
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/>
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="ShadCn UI" title="ShadCn UI"/>
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" alt="Sass" title="Sass"/>
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![MUI](https://img.shields.io/badge/Mui-000000?style=for-the-badge&logo=mui&logoColor=white)
+
+### Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### Banco de Dados & Ferramentas
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logo=typeorm&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
 </div>
+
+## 🎯 Competências Principais
+
+- **🎨 UI Fidelity (Pixel Perfect)**: Transformação fiel de protótipos em interfaces web de alta performance.
+- **🏗️ Full Stack Mindset**: Confortável transitando entre regras de negócio complexas no backend e UX fluida no frontend.
+- **💹 Web3 & FinTech**: Experiência em integração com blockchain (Ethers.js, Wagmi) e visualização de dados financeiros.
+- **⚡ Performance & SEO**: Otimização de Core Web Vitals para garantir velocidade e visibilidade orgânica.
+- **🔐 Autenticação e Segurança**: Implementação de fluxos seguros com JWT, Clerk, Better Auth e OAuth.
+
+## 🌟 No que estou trabalhando
+
+- 🔧 Explorando mais sobre arquitetura orientada a eventos (EDA) usando AWS SNS e AWS SQS.
+- 🛠️ Aperfeiçoando arquiteturas baseadas em **Microserviços com NestJS**.
+
+## 📫 Vamos nos conectar!
+
 <div align="center">
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" alt="Redux" title="Redux"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="45" height="45" alt="Figma" />
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/>
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webpack.png" alt="webpack" title="webpack"/>
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/>
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/>
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/>
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/>
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastify.png" alt="Fastify" title="Fastify"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/araujoerick09/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:araujoerick.dev@gmail.com)
+
 </div>
+
+---
+
 <div align="center">
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/>
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
-	<!-- 	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/>
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" title="Swagger"/> -->
-	<!-- 	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/> -->
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
-	<!-- 	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/> -->
-	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" alt="Firebase" title="Firebase"/>
-	<!-- 	<img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jest.png" alt="Jest" title="Jest"/> -->
+  💡 "Todos nós falhamos. Todos nós cometemos erros. É isso que nos torna humanos." - Master Chief
 </div>
 
 ##
 
-<div align=center>
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Langs" align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujoerick&hide=TeX&layout=compact&theme=tokyonight&border_color=61dafb&hide_border=true" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujoerick&layout=compact&theme=tokyonight&hide_border=true"
+      alt="Top Languages"
+      width="390"
+    />
   </a>
 </div>
