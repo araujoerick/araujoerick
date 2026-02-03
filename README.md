@@ -57,6 +57,13 @@ Sou um desenvolvedor Full Stack apaixonado por construir interfaces de alta fide
 - 🔧 Explorando mais sobre arquitetura orientada a eventos (EDA) usando AWS SNS e AWS SQS.
 - 🛠️ Aperfeiçoando arquiteturas baseadas em **Microserviços com NestJS**.
 
+<div align="center">
+  
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=araujoerick&theme=dark&hide_border=true&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=weekly&disable_animations=false&card_width=466&card_height=140&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=true)](https://github.com/araujoerick)
+[![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=araujoerick&layout=compact&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas&size_weight=0.5)](https://github.com/araujoerick)
+
+</div>
+
 ## 📫 Vamos nos conectar!
 
 <div align="center">
@@ -66,20 +73,7 @@ Sou um desenvolvedor Full Stack apaixonado por construir interfaces de alta fide
 
 </div>
 
----
-
 <div align="center">
   💡 "Todos nós falhamos. Todos nós cometemos erros. É isso que nos torna humanos." - Master Chief
 </div>
 
-##
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujoerick&layout=compact&theme=tokyonight&hide_border=true"
-      alt="Top Languages"
-      width="390"
-    />
-  </a>
-</div>
