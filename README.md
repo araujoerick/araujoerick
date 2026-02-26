@@ -74,6 +74,6 @@ Sou um desenvolvedor Full Stack apaixonado por construir interfaces de alta fide
 </div>
 
 <div align="center">
-  💡 "Todos nós falhamos. Todos nós cometemos erros. É isso que nos torna humanos." - Master Chief
+  💡 "The right man in the wrong place can make all the difference in the world." - <strong>G-Man</strong>
 </div>
 
